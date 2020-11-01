@@ -4,4 +4,4 @@
 
 - Contents include Relational Database, NoSQL Database, MapReduce, etc. 
 
-- The copyright belongs to me (Yijun Yang).
+- The copyright belongs to me (yijunyang).

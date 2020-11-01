@@ -1,7 +1,7 @@
 # Database with Python
 
-- This is a python code collation for database learning.
+- This repository contains materials for database learning with python.
 
-- Contents include relational database, NoSQL database, MapReduce, etc. 
+- Contents include Relational Database, NoSQL Database, MapReduce, etc. 
 
-- The copyright belongs to Yale University and instructors of the course.
+- The copyright belongs to me (Yijun Yang).

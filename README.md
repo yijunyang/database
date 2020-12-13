@@ -1,7 +1,5 @@
-# Database with Python
+# Database with MySQL & Python
 
-- This repository contains materials for database learning with python.
+- This repository contains materials for Yale Course BIS 638: Clinical DMS and Ontologies.
 
-- Contents include Relational Database, NoSQL Database, MapReduce, etc. 
-
-- The copyright belongs to me (yijunyang).
+- The final report is available here: [Ovarian Cancer EDA based on MIMIC III](https://yijunyang.github.io/database/MIMIC3_Project.html)
